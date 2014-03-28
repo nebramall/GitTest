@@ -1,1 +1,3 @@
 This is a text document I started in Master.
+
+I added this in NewBranch1.
